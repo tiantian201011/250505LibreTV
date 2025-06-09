@@ -19,9 +19,7 @@ LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供
 
 ## 🥇 感谢赞助
 
-- **[YXVM](https://yxvm.com)**  
-- **[ZMTO/VTEXS](https://zmto.com)**
-
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 ## 🚀 快速部署
 
 选择以下任一平台，点击一键部署按钮，即可快速创建自己的 LibreTV 实例：
